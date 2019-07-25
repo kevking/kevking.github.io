@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://huoshanw.com/"/>
-  <updated>2019-06-19T14:48:52.565Z</updated>
+  <updated>2019-07-25T02:42:04.256Z</updated>
   <id>http://huoshanw.com/</id>
   
   <author>
@@ -17,44 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>今天吃啥？</title>
-    <link href="http://huoshanw.com/3208/"/>
-    <id>http://huoshanw.com/3208/</id>
-    <published>2019-06-19T14:23:24.000Z</published>
-    <updated>2019-06-19T14:48:52.565Z</updated>
+    <title>我们走过的</title>
+    <link href="http://huoshanw.com/3207/"/>
+    <id>http://huoshanw.com/3207/</id>
+    <published>2019-07-21T18:23:24.000Z</published>
+    <updated>2019-07-25T02:42:04.256Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/chihuo.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<style>#love{text-align:center;margin-bottom:20px;font-size:14px;color:#ef9a9a}</style><div id="love">这是我们共同度过的第<span id="love_time"></span></div><script>function love_time(){var e=new Date("12/01/2017 00:00:00"),t=((new Date).getTime()-e.getTime())/864e5,o=Math.floor(t),l=24*(t-o),n=Math.floor(l),a=60*(l-n),i=Math.floor(60*(l-n)),m=Math.floor(60*(a-i));document.getElementById("love_time").innerText=o+"天"+n+"小时"+i+"分"+m+"秒"}love_time()</script><a id="more"></a><div id="myMap" style="width:100%;height:600px"></div><script type="text/javascript" src="/js/echarts.min.js"></script><script type="text/javascript" src="/js/china.js"></script><script type="text/javascript" src="/js/love-map.js" charset="utf-8"></script>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/images/chihuo.jpg&quot; alt&gt;&lt;/p&gt;
-      
+      &lt;style&gt;#love{text-align:center;margin-bottom:20px;font-size:14px;color:#ef9a9a}&lt;/style&gt;&lt;div id=&quot;love&quot;&gt;这是我们共同度过的第&lt;span id=&quot;love_time&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;script&gt;function love_time(){var e=new Date(&quot;12/01/2017 00:00:00&quot;),t=((new Date).getTime()-e.getTime())/864e5,o=Math.floor(t),l=24*(t-o),n=Math.floor(l),a=60*(l-n),i=Math.floor(60*(l-n)),m=Math.floor(60*(a-i));document.getElementById(&quot;love_time&quot;).innerText=o+&quot;天&quot;+n+&quot;小时&quot;+i+&quot;分&quot;+m+&quot;秒&quot;}love_time()&lt;/script&gt;
     
     </summary>
     
-      <category term="乱七八糟的工具" scheme="http://huoshanw.com/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E5%B7%A5%E5%85%B7/"/>
+      <category term="闲言语" scheme="http://huoshanw.com/categories/%E9%97%B2%E8%A8%80%E8%AF%AD/"/>
     
     
   </entry>
   
   <entry>
-    <title>我们走过的</title>
-    <link href="http://huoshanw.com/3207/"/>
-    <id>http://huoshanw.com/3207/</id>
-    <published>2017-08-27T18:23:24.000Z</published>
-    <updated>2019-06-17T04:26:44.054Z</updated>
-    
-    <content type="html"><![CDATA[<style>#love-map{width:100%}#love-time{text-align:center;margin-bottom:20px;font-size:14px;color:#ef9a9a;display:none}</style><div id="love-time">这是我们共同度过的第<span></span></div><div id="love-map"></div><p>上面是一些我们一起去过的地方，其中有一个地点标的是 1996 年，这并不是我写错了，那年我 1 岁，我们是邻居，遗憾的是我们对那几年都没有任何记忆了<a id="more"></a></p><p>&nbsp;</p><p>之后一晃 13 年，刚上高中，我家搬到了高中旁边的一个小区，一天晚上我妈兴奋地跟我说：你猜我晚上散步遇到了谁？</p><p>我肯定是猜不出来的，因为我什么都不记得</p><p>再后来发现她跟我一个班，就这样故事继续了</p><p>那时候每天放学一起回家，关系很亲密，家长老师都很紧张，以为我们在早恋，但我一直在沉迷学习，实际上什么都没发生，放学路上聊的最多的也是功课，现在想起来甚至有些遗憾</p><p>&nbsp;</p><p>但有趣的灵魂终会相遇，5 年以后，这个人又被我诱骗成了女票，我们的故事还会继续下去</p><p>&nbsp;</p><p>回想一下，这些情节居然跟你的名字有一些神似</p><p>（是不会放照片的，长相和性格可以脑补扎着单马尾的岁纳京子</p><script>function love_time(){window.setTimeout(function(){love_time()},1e3);var e=new Date("5/11/2017 00:00:00"),t=((new Date).getTime()-e.getTime())/864e5,o=Math.floor(t),a=24*(t-o),n=Math.floor(a),r=60*(a-n),i=Math.floor(60*(a-n)),m=Math.floor(60*(r-i));$("#love-time span").html(o+"天"+n+"小时"+i+"分"+m+"秒")}function myEcharts(){$("#love-map").height(.8*$("#love-map").width());var e=echarts.init(document.getElementById("love-map"));option=null;var n={"临沂":[118.35,35.05],"武汉":[114.31,30.52],"杭州":[120.19,30.26],"上海":[121.48,31.22],"昆明":[102.73,25.04],"大理":[100.225668,25.589449],"济南":[117,36.65]};option={backgroundColor:"#A7B1CA",geo:{map:"china",label:{emphasis:{show:!1}},roam:!1,itemStyle:{normal:{areaColor:"#fff",borderColor:"#C9CED9"},emphasis:{areaColor:"#DFE0E3"}}},tooltip:{trigger:"item",formatter:function(e){return e.name+" - "+e.value[2]}},series:[{type:"effectScatter",coordinateSystem:"geo",data:function(e){for(var t=[],o=0;o<e.length;o++){var a=n[e[o].name];a&&t.push({name:e[o].name,value:a.concat(e[o].value)})}return t}([{name:"临沂",value:"1996"},{name:"武汉",value:"2015.12"},{name:"杭州",value:"2017.01"},{name:"上海",value:"2017.02"},{name:"昆明",value:"2017.05"},{name:"大理",value:"2017.05"},{name:"济南",value:"2017.05"}]),symbolSize:8,showEffectOn:"render",rippleEffect:{brushType:"stroke"},hoverAnimation:!0,label:{normal:{formatter:"{b}",position:"right",fontSize:14,show:!0}},itemStyle:{normal:{color:"#FD8888"}}}]},e.setOption(option,!0)}$("#love-time").show(),love_time(),window.echarts?myEcharts():$.getScript("https://cdn.bootcss.com/echarts/3.8.5/echarts.min.js",function(){$.getScript("https://cdn.jsdelivr.net/npm/echarts@3.8.5/map/js/china.js",function(){myEcharts()})})</script>]]></content>
+    <title>今天吃啥？</title>
+    <link href="http://huoshanw.com/3208/"/>
+    <id>http://huoshanw.com/3208/</id>
+    <published>2019-06-19T14:23:24.000Z</published>
+    <updated>2019-07-23T08:57:24.494Z</updated>
     
     <summary type="html">
     
-      &lt;style&gt;#love-map{width:100%}#love-time{text-align:center;margin-bottom:20px;font-size:14px;color:#ef9a9a;display:none}&lt;/style&gt;&lt;div id=&quot;love-time&quot;&gt;这是我们共同度过的第&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div id=&quot;love-map&quot;&gt;&lt;/div&gt;&lt;p&gt;上面是一些我们一起去过的地方，其中有一个地点标的是 1996 年，这并不是我写错了，那年我 1 岁，我们是邻居，遗憾的是我们对那几年都没有任何记忆了
-    
     </summary>
     
-      <category term="闲言语" scheme="http://huoshanw.com/categories/%E9%97%B2%E8%A8%80%E8%AF%AD/"/>
+      <category term="乱七八糟的工具" scheme="http://huoshanw.com/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E5%B7%A5%E5%85%B7/"/>
     
     
   </entry>
