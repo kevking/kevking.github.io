@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://huoshanw.com/"/>
-  <updated>2019-11-05T11:06:46.228Z</updated>
+  <updated>2019-07-25T02:42:04.256Z</updated>
   <id>http://huoshanw.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://huoshanw.com/zxyy/"/>
-    <id>http://huoshanw.com/zxyy/</id>
-    <published>2019-11-05T11:06:46.231Z</published>
-    <updated>2019-11-05T11:06:46.228Z</updated>
-    
-    <content type="html"><![CDATA[<div class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=74649083&cid=127687094&page=1" scrolling="no" border="0" frameborder="no"></iframe></div><style>.aspect-ratio{position:relative;width:100%;height:0;padding-bottom:56%}.aspect-ratio iframe{position:absolute;width:100%;height:100%;left:0;top:0}</style>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div class=&quot;aspect-ratio&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=74649083&amp;cid=127687094&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameb
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>我们走过的</title>
@@ -62,7 +41,7 @@
     <link href="http://huoshanw.com/3208/"/>
     <id>http://huoshanw.com/3208/</id>
     <published>2019-06-19T14:23:24.000Z</published>
-    <updated>2019-07-29T06:27:55.334Z</updated>
+    <updated>2019-11-05T11:13:26.954Z</updated>
     
     <content type="html"><![CDATA[<style>*{padding:0;margin:0;font-size:16px;font-family:"Microsoft YaHei"}.turnplate_box{width:300px;height:300px;margin:100px auto;position:relative}.turnplate_box canvas{position:absolute}#myCanvas{background-color:#fff;border-radius:100%}#myCanvas01,#myCanvas03{left:50px;top:50px;z-index:30}#myCanvas02{left:75px;top:75px;z-index:20}#myCanvas{-o-transform:transform 6s;-ms-transform:transform 6s;-moz-transform:transform 6s;-webkit-transform:transform 6s;transition:transform 6s;-o-transform-origin:50% 50%;-ms-transform-origin:50% 50%;-moz-transform-origin:50% 50%;-webkit-transform-origin:50% 50%;transform-origin:50% 50%}.turnplatw_btn{width:60px;height:60px;left:120px;top:120px;border-radius:100%;position:absolute;cursor:pointer;border:none;background:0 0;outline:0;z-index:40}</style><script type="text/javascript" src="/js/jquery-1.11.3.min.js"></script><script type="text/javascript" src="/js/lottery.js"></script><div>今天吃什么<span></span></div><a id="more"></a><div class="turnplate_box"><canvas id="myCanvas" width="300px" height="300px">抱歉！浏览器不支持。</canvas><canvas id="myCanvas01" width="200px" height="200px">抱歉！浏览器不支持。</canvas><canvas id="myCanvas03" width="200px" height="200px">抱歉！浏览器不支持。</canvas><canvas id="myCanvas02" width="150px" height="150px">抱歉！浏览器不支持。</canvas><button id="tupBtn" class="turnplatw_btn"></button></div>]]></content>
     
@@ -73,6 +52,29 @@
     </summary>
     
       <category term="乱七八糟的工具" scheme="http://huoshanw.com/categories/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E5%B7%A5%E5%85%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今天吃啥？</title>
+    <link href="http://huoshanw.com/263/"/>
+    <id>http://huoshanw.com/263/</id>
+    <published>2019-06-19T14:23:24.000Z</published>
+    <updated>2019-11-05T11:13:25.703Z</updated>
+    
+    <content type="html"><![CDATA[<div class="aspect-ratio"><iframe src="//player.bilibili.com/player.html?aid=74649083&cid=127687094&page=1" scrolling="no" border="0" frameborder="no"></iframe></div><style>.aspect-ratio{position:relative;width:100%;height:0;padding-bottom:56%}</style><p></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;aspect-ratio&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=74649083&amp;cid=127687094&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameb
+      
+    
+    </summary>
+    
+      <category term="中心医院" scheme="http://huoshanw.com/categories/%E4%B8%AD%E5%BF%83%E5%8C%BB%E9%99%A2/"/>
     
     
   </entry>
